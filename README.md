@@ -15,13 +15,18 @@ We set out to create a set of resources to help project developers and teams:
 - Identify which of these models is most appropriate for achieving their project’s goals
 - Prioritize the most important open source best practices with tailored recommendations based on their archetype
 
+This project/framework contains three main files:
+- This README, which includes a [quickstart guide](#quickstart-how-to-use-this-framework)
+- A table of [archetypes](/archetypes.md), describing models of OSS development
+- A [Minimum standards of care](/min-standard-care.md) guide
+
 We encourage you to use this framework early and often – projects may transition between archetypes as they move through different stages of maturity.
 
 ## Quickstart: How to use this framework
 
 ### 1. The basics: Minimum standards of care
 
-First, take a look at the [Minimum standards of care](FIXME) guide. This guide describes the most important foundational open practices that we think all projects should incorporate first, before attending to archetype-specific practices. If there’s still work to be done there, focus on those items first, and come back to this guide when you’re ready.
+First, take a look at the [Minimum standards of care](/min-standard-care.md) guide. This guide describes the most important foundational open practices that we think all projects should incorporate first, before attending to archetype-specific practices. If there’s still work to be done there, focus on those items first, and come back to this guide when you’re ready.
 
 ### 2. Identify your project’s archetype(s)
 
@@ -34,15 +39,15 @@ There are two suggested starting points for identifying your project’s archety
 
 **While any project can start from here, it may be most helpful for new-ish projects just getting started.**
 
-Reflect on the big picture of what you want to achieve with your project. Look through the purple highlighted row below to identify project archetypes that are most closely aligned with your goals. Then, consider the other attribute rows – especially those highlighted in blue – in the table to identify which of these is the closest fit. With this approach in particular, you may find that the archetype(s) that most closely match your goals are different from the archetype(s) that match your practices or other project characteristics. This is informative! Make a note of both of these, and we’ll make a plan in the next step.
+Reflect on the big picture of what you want to achieve with your project. Look through the rows labeled *Starting Point A* to identify project archetypes that are most closely aligned with your goals. Then, consider the other attribute rows – especially those labeled *Starting Point B* – in the table to identify which of these is the closest fit. With this approach in particular, you may find that the archetype(s) that most closely match your goals are different from the archetype(s) that match your practices or other project characteristics. This is informative! Make a note of both of these, and we’ll make a plan in the next step.
 
 #### Starting Point B: Start from your team structure and work forwards
 
 **While any project can start from here, this starting point may be especially helpful for projects with some momentum which are ready to think about long-term sustainability.**
 
-Two of the defining characteristics of an open source project are who is invited to make decisions, and who is invited to directly contribute to the codebase. Take a look at the two blue highlighted rows to identify project archetype(s) that reflect how you work **in practice** (e.g., while any open source project could technically have a PR sent in from an external contributor, it’s important to consider whether you’re actually likely to invite or incorporate outside work.). Then take a look at the other attribute rows – especially those highlighted in purple –in the table to identify which of these is the closest fit. You may find that the archetype(s) that most closely match your goals are different from the archetype(s) that match your practices or other project characteristics. This is informative! Make a note of both of these, and we’ll make a plan in the next step.
+Two of the defining characteristics of an open source project are who is invited to make decisions, and who is invited to directly contribute to the codebase. Take a look at the rows labeled *Starting Point B* to identify project archetype(s) that reflect how you work **in practice** (e.g., while any open source project could technically have a PR sent in from an external contributor, it’s important to consider whether you’re actually likely to invite or incorporate outside work.). Then take a look at the other attribute rows – especially that labeled *Starting Point A* –in the table to identify which of these is the closest fit. You may find that the archetype(s) that most closely match your goals are different from the archetype(s) that match your practices or other project characteristics. This is informative! Make a note of both of these, and we’ll make a plan in the next step.
 
-*Not all open source projects have to be open to contributions! However, it is important to communicate this appropriately and ensure your code is redeployable if someone wants to fork your project (for more, see the [Minimum Standards of Care](FIXME) guide).*
+*Not all open source projects have to be open to contributions! However, it is important to communicate this appropriately and ensure your code is redeployable if someone wants to fork your project (for more, see the [Minimum Standards of Care](/min-standard-care.md) guide).*
 
 ### 3. Finally, make a plan for growth
 
@@ -57,9 +62,9 @@ Two of the defining characteristics of an open source project are who is invited
 
 ## Quick links
 
-- [OSS Needs Assessment](https://internews.org/areas-of-expertise/global-tech/resources/open-source-software-lightweight-needs-assessment/) from Internews, which is aligned with the “most important practices” guidelines in the [archetype table](FIXME).
+- [OSS Needs Assessment](https://internews.org/areas-of-expertise/global-tech/resources/open-source-software-lightweight-needs-assessment/) from Internews, which is aligned with the “most important practices” guidelines in the [archetype table](/archetypes.md).
 
-- [Minimum standards of care](FIXME): Guide to the most foundational open practices that we think all projects should incorporate first, before attending to archetype-specific practices
+- [Minimum standards of care](/min-standard-care.md): Guide to the most foundational open practices that we think all projects should incorporate first, before attending to archetype-specific practices
 
 - [Mozilla Open Source Archetypes’](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf): an earlier set of archetypes, on which this project is built.
 
