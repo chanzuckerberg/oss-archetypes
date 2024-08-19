@@ -70,7 +70,7 @@ Two of the defining characteristics of an open source project are who is invited
 
 - **[WIP] Discussion guide for workshop facilitators**: For existing projects, it can be daunting to try and define or re-evaluate your open source strategy. We created a workshop discussion guide to walk you through key questions to consider in setting your open source goals and making a manageable, stepwise plan toward them.
 
-## Project status and governance
+## Project status, governance, and contributions
 
 This framework was developed by members of the Open Source Software Working Group within [CZ Science](https://chanzuckerberg.com/science/) at [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). We put this together in response to internal needs, and chose to share it publicly as a resource for others, too!
 
@@ -81,7 +81,7 @@ Authors:
 - Kirsty Ewing ([@KirstyEwing](https://github.com/KirstyEwing))
 - Justine Larsen ([@justinelarsen](https://github.com/justinelarsen))
 
-We are happy to receive feedback and contributions to this framework. You are welcome to interact with us through issues, PRs, or via email at [sci-opensource-wg@chanzuckerberg.com](mailto:sci-opensource-wg@chanzuckerberg.com).
+We are happy to receive feedback and contributions to this framework. You are welcome to interact with us through [issues]([url](https://github.com/chanzuckerberg/oss-archetypes/issues)) or via email at [sci-opensource-wg@chanzuckerberg.com](mailto:sci-opensource-wg@chanzuckerberg.com).
 
 If you would like to contribute via a pull request, please fork the repo to create the necessary changes.
 
