@@ -2,8 +2,6 @@
 
 *"OS" doesn't stand for "One Size"*
 
-*Last update: June 12, 2024*
-
 This project presents a framework and guidelines for the many ways of doing OSS in science.
 
 ## Why and when to use this framework
