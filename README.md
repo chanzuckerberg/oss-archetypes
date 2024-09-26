@@ -66,7 +66,7 @@ Two of the defining characteristics of an open source project are who is invited
 
 - [Minimum standards of care](/min-standard-care.md): Guide to the most foundational open practices that we think all projects should incorporate first, before attending to archetype-specific practices
 
-- [Mozilla Open Source Archetypes’](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf): an earlier set of archetypes, on which this project is built.
+- [Mozilla Open Source Archetypes](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf): an earlier set of archetypes, on which this project is built.
 
 - **[WIP] Discussion guide for workshop facilitators**: For existing projects, it can be daunting to try and define or re-evaluate your open source strategy. We created a workshop discussion guide to walk you through key questions to consider in setting your open source goals and making a manageable, stepwise plan toward them.
 
